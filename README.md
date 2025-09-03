@@ -2,7 +2,7 @@
 
 [![Flutter](https://img.shields.io/badge/Flutter-3.0+-blue.svg)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.0+-orange.svg)](https://dart.dev/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 A modern, offline-first productivity app built with Flutter and enhanced through strategic GitHub Copilot integration. This project demonstrates advanced prompt engineering techniques and AI-assisted development workflows.
 
