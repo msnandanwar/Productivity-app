@@ -27,8 +27,8 @@ A modern, offline-first productivity app built with Flutter and enhanced through
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd focusflow
+git clone https://github.com/msnandanwar/Productivity-app.git
+cd Productivity-app
 
 # Install dependencies
 flutter pub get
